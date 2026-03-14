@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "水の証",
+  "base_artist": "ラクス・クライン (CV: 田中理恵)",
+  "createdAt": "2026-03-14T06:58:23.535698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水の証",
+      "artist": "ラクス・クライン",
+      "has_synced": false,
+      "path": "select/01_水の証_ラクス・クライン.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mizu no Akashi [水の証]",
+      "artist": "ラクス・クライン",
+      "has_synced": false,
+      "path": "select/02_Mizu_no_Akashi_[水の証]_ラクス・クライン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "水の証",
+      "artist": "ラクス・クライン (田中理恵)",
+      "has_synced": true,
+      "path": "select/03_水の証_ラクス・クライン_(田中理恵).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "水の証",
+      "artist": "田中理恵",
+      "has_synced": true,
+      "path": "select/04_水の証_田中理恵.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "水の証",
+      "artist": "FictionJunction",
+      "has_synced": false,
+      "path": "select/05_水の証_FictionJunction.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "水の証",
+      "artist": "ラクス・クライン(田中理恵)",
+      "has_synced": true,
+      "path": "select/06_水の証_ラクス・クライン(田中理恵).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "水の証-田中理恵",
+      "artist": "田中理恵",
+      "has_synced": true,
+      "path": "select/07_水の証-田中理恵_田中理恵.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "水の証(オリジナル・カラオケ)-田中理恵",
+      "artist": "田中理恵",
+      "has_synced": true,
+      "path": "select/08_水の証(オリジナル・カラオケ)-田中理恵_田中理恵.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "水の証",
+      "artist": "ラクス・クライン(田中理恵)×ハロ",
+      "has_synced": true,
+      "path": "select/09_水の証_ラクス・クライン(田中理恵)×ハロ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "水の証 ～ReTracks",
+      "artist": "ラクス・クライン (田中 理恵)",
+      "has_synced": true,
+      "path": "select/10_水の証_~ReTracks_ラクス・クライン_(田中_理恵).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "水の証",
+      "artist": "ラクス･クライン(田中理恵)",
+      "has_synced": true,
+      "path": "select/11_水の証_ラクス・クライン(田中理恵).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "水の証",
+      "artist": "ラクス·クライン(田中理恵)",
+      "has_synced": true,
+      "path": "select/12_水の証_ラクス·クライン(田中理恵).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水の証",
+      "artist": "ラクス・クライン (田中理恵)",
+      "has_synced": false,
+      "path": "select/pl_01_水の証_ラクス・クライン_(田中理恵).txt"
+    }
+  ]
+}
